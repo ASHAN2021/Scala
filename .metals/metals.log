@@ -94,3 +94,9 @@ SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@555ad8e
 2024.06.18 08:39:10 INFO  time: Imported build in 0.14s
 2024.06.18 08:39:10 INFO  compiling scala_f4dd477a3a (1 scala source)
 2024.06.18 08:39:22 INFO  time: indexed workspace in 11s
+Jun 18, 2024 8:39:34 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.06.18 08:40:14 INFO  Shutting down server
+2024.06.18 08:40:14 INFO  shutting down Metals
+2024.06.18 08:40:14 INFO  Shut down connection with build server.
+2024.06.18 08:40:14 INFO  Exiting server

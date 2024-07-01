@@ -4,7 +4,7 @@ object question04{
         println(profit(20));
         println(profit(25));
         println(profit(30));
-
+        println(profit(35));
     }
 }
 def noOfAttendees(ticket_price: Double): Double={

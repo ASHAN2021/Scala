@@ -1,0 +1,60 @@
+2024.06.24 18:20:21 INFO  Started: Metals version 1.3.2 in folders 'F:\Scala\labsheets\labsheet_2' for client Visual Studio Code 1.90.2.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@16b45d40]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@27d4e1b4]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@16b45d40]
+2024.06.24 18:20:22 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.06.24 18:20:23 INFO  no build target found for F:\Scala\labsheets\labsheet_2\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 18:20:27 INFO  Running List(C:\Users\ashan\AppData\Local\Coursier\data\bin\scala-cli.BAT, setup-ide, F:\Scala\labsheets\labsheet_2)
+2024.06.24 18:20:28 INFO  Attempting to connect to the build server...
+2024.06.24 18:20:28 INFO  Running BSP server List(C:\Users\ashan\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, F:\Scala\labsheets\labsheet_2\.scala-build\ide-options-v2.json, --json-launcher-options, F:\Scala\labsheets\labsheet_2\.scala-build\ide-launcher-options.json, --envs-file, F:\Scala\labsheets\labsheet_2\.scala-build\ide-envs.json, F:\Scala\labsheets\labsheet_2)
+2024.06.24 18:20:27 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at F:\Scala\labsheets\labsheet_2\.metals\bsp.trace.json or C:\Users\ashan\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.06.24 18:20:31 INFO  BSP server: Starting compilation server
+2024.06.24 18:20:43 INFO  time: Connected to build server in 15s
+2024.06.24 18:20:43 INFO  Connected to Build server: scala-cli v1.3.2
+2024.06.24 18:20:44 INFO  compiling labsheet_2_f4dd477a3a (4 scala sources)
+2024.06.24 18:20:49 INFO  time: Imported build in 6.14s
+2024.06.24 18:21:00 INFO  time: indexed workspace in 11s
+Jun 24, 2024 6:39:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 177
+Jun 24, 2024 6:56:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 249
+2024.06.24 21:28:45 INFO  Shutting down server
+2024.06.24 21:28:45 INFO  shutting down Metals
+2024.06.24 21:28:45 INFO  Shut down connection with build server.
+2024.06.24 21:28:45 INFO  Exiting server
+2024.06.25 08:17:19 INFO  Started: Metals version 1.3.2 in folders 'F:\Scala\labsheets\labsheet_2' for client Visual Studio Code 1.90.2.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@206fbbe7]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@2598ee5c]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@206fbbe7]
+2024.06.25 08:17:20 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.06.25 08:17:22 INFO  no build target found for F:\Scala\labsheets\labsheet_2\Q4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 08:17:22 INFO  Attempting to connect to the build server...
+2024.06.25 08:17:22 INFO  Running BSP server List(C:\Users\ashan\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, F:\Scala\labsheets\labsheet_2\.scala-build\ide-options-v2.json, --json-launcher-options, F:\Scala\labsheets\labsheet_2\.scala-build\ide-launcher-options.json, --envs-file, F:\Scala\labsheets\labsheet_2\.scala-build\ide-envs.json, F:\Scala\labsheets\labsheet_2)
+2024.06.25 08:17:22 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at F:\Scala\labsheets\labsheet_2\.metals\bsp.trace.json or C:\Users\ashan\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.06.25 08:17:26 INFO  BSP server: Starting compilation server
+2024.06.25 08:17:34 INFO  no build target found for F:\Scala\labsheets\labsheet_2\Q4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 08:17:35 INFO  no build target found for F:\Scala\labsheets\labsheet_2\Q4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 08:17:37 INFO  no build target found for F:\Scala\labsheets\labsheet_2\Q4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 08:17:37 INFO  no build target found for F:\Scala\labsheets\labsheet_2\Q4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 08:17:38 INFO  no build target found for F:\Scala\labsheets\labsheet_2\Q4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 08:17:38 INFO  time: Connected to build server in 16s
+2024.06.25 08:17:38 INFO  Connected to Build server: scala-cli v1.3.2
+2024.06.25 08:17:38 INFO  time: Imported build in 0.31s
+2024.06.25 08:17:42 INFO  time: indexed workspace in 3.15s
+Jun 25, 2024 8:18:51 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 64
+2024.06.25 09:30:47 INFO  compiling labsheet_2_f4dd477a3a (1 scala source)
+2024.06.25 09:30:52 INFO  time: compiled labsheet_2_f4dd477a3a in 4.74s
+2024.06.25 09:30:52 WARN  Could not load snapshot text for F:\Scala\labsheets\labsheet_2\Q4.scala
+2024.06.25 09:30:52 WARN  Could not load snapshot text for F:\Scala\labsheets\labsheet_2\Q4.scala
+2024.06.25 09:44:17 WARN  Could not load snapshot text for F:\Scala\labsheets\labsheet_2\Q4.scala
+2024.06.25 09:47:06 WARN  Could not load snapshot text for F:\Scala\labsheets\labsheet_2\Q4.scala
+2024.06.25 09:47:56 WARN  Could not load snapshot text for F:\Scala\labsheets\labsheet_2\Q4.scala
+2024.06.25 14:15:46 INFO  Shutting down server
+2024.06.25 14:15:46 INFO  shutting down Metals
+2024.06.25 14:15:46 INFO  Shut down connection with build server.
+2024.06.25 14:15:46 INFO  Exiting server

@@ -4,7 +4,7 @@ object StringFilter {
   }
 
   def main(args: Array[String]): Unit = {
-    val input = List("hello", "world", "Scala", "programming", "is", "awesome")
+    val input = List("hello", "world", "Scala", "is")
     val filtered = filterStrings(input)
     println(s"Original list: $input")
     println(s"Filtered list: $filtered")

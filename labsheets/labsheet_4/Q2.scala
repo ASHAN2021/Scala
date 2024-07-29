@@ -9,6 +9,7 @@ object Q2{
              }else{
                 println("Odd number");
              }
+            
         }
 
 

@@ -1400,3 +1400,245 @@ WARNING: Unmatched cancel notification for request id 7
 2024.07.29 22:51:37 INFO  time: compiled Scala_f4dd477a3a in 0.84s
 Jul 29, 2024 10:53:35 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
+2024.07.30 08:39:40 INFO  Running List(C:\Users\ashan\AppData\Local\Coursier\data\bin\scala-cli.BAT, bsp, --workspace, C:\Users\ashan\AppData\Local\Temp\metals-scala-cli7747400400120168956, --semantic-db-source-root, C:\Users\ashan\Downloads, C:\Users\ashan\Downloads\q1.scala)
+2024.07.30 08:39:40 INFO  no build target found for C:\Users\ashan\Downloads\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.30 08:39:41 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\ashan\Downloads\.metals\bsp.trace.json or C:\Users\ashan\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.30 08:39:44 INFO  time: code lens generation in 3.75s
+2024.07.30 08:39:47 INFO  no build target found for C:\Users\ashan\Downloads\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.30 08:39:50 INFO  Connected to Scala CLI server v1.3.2
+2024.07.30 08:39:50 INFO  no build target found for C:\Users\ashan\Downloads\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.30 08:39:50 INFO  no build target found for C:\Users\ashan\Downloads\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.30 08:39:51 INFO  compiling metals-scala-cli7747400400120168956_881bd76cbf-00c1fbda46 (1 scala source)
+Jul 30, 2024 8:39:55 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 681
+Jul 30, 2024 8:39:55 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 685
+2024.07.30 08:39:55 INFO  time: compiled metals-scala-cli7747400400120168956_881bd76cbf-00c1fbda46 in 4.29s
+2024.07.30 08:39:55 INFO  time: indexed workspace in 5.18s
+2024.07.30 08:39:56 INFO  Scala CLI started for C:\Users\ashan\Downloads\q1.scala
+Jul 30, 2024 8:39:59 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 699
+Jul 30, 2024 8:39:59 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 700
+Jul 30, 2024 8:39:59 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 702
+2024.07.30 08:40:01 INFO  compiling scala_f4dd477a3a (17 scala sources)
+2024.07.30 08:40:02 INFO  time: compiled Scala_f4dd477a3a in 1.05s
+2024.07.30 08:40:09 INFO  Shut down connection with build server.
+2024.07.30 08:40:09 INFO  Scala CLI: Jul 30, 2024 8:40:09 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+2024.07.30 08:40:23 INFO  file:///F:/Scala/labsheets/labsheet_6/Q2.scala:68:1: stale bloop error: main is already defined as method main in F:\Scala\labsheets\labsheet_6\Q1.scala
+
+Note that overloaded methods must all be defined in the same group of toplevel definitions
+> def main(args: Array[String]): Unit = {
+>   val studentRecord = getStudentInfoWithRetry
+>   printStudentRecord(studentRecord)
+> 
+> }
+2024.07.30 08:40:23 WARN  Could not find semantic tokens for: file:///F:/Scala/labsheets/labsheet_6/Q2.scala
+2024.07.30 08:40:25 INFO  compiling scala_f4dd477a3a (17 scala sources)
+2024.07.30 08:40:25 INFO  time: compiled Scala_f4dd477a3a in 0.69s
+Jul 30, 2024 8:40:27 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 755
+Jul 30, 2024 8:40:27 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 756
+2024.07.30 08:40:44 INFO  file:///F:/Scala/labsheets/labsheet_6/Q2.scala:68:1: stale bloop error: main is already defined as method main in F:\Scala\labsheets\labsheet_6\Q1.scala
+
+Note that overloaded methods must all be defined in the same group of toplevel definitions
+> def main(args: Array[String]): Unit = {
+>   val studentRecord = getStudentInfoWithRetry
+>   printStudentRecord(studentRecord)
+> 
+> }
+2024.07.30 08:40:44 WARN  Could not find semantic tokens for: file:///F:/Scala/labsheets/labsheet_6/Q2.scala
+2024.07.30 08:40:45 INFO  compiling scala_f4dd477a3a (17 scala sources)
+2024.07.30 08:40:45 INFO  time: compiled Scala_f4dd477a3a in 0.61s
+2024.07.30 08:40:47 INFO  compiling scala_f4dd477a3a (17 scala sources)
+2024.07.30 08:40:48 INFO  time: compiled Scala_f4dd477a3a in 1s
+2024.07.30 08:43:36 INFO  Cancelling compilation on scala-cli server
+2024.07.30 08:43:36 INFO  compiling scala_f4dd477a3a (16 scala sources)
+2024.07.30 08:43:37 WARN  Invalid text document uri received from build server: file:///F:/Scala/labsheets/labsheet_6/Q2.scala
+2024.07.30 08:43:37 INFO  time: compiled Scala_f4dd477a3a in 1.01s
+2024.07.30 08:43:37 INFO  time: Imported build in 1.43s
+2024.07.30 08:43:37 INFO  running doctor check
+2024.07.30 08:43:37 INFO  java targets: Scala_f4dd477a3a-test, Scala_f4dd477a3a
+2024.07.30 08:43:37 INFO  compiling scala_f4dd477a3a (16 scala sources)
+2024.07.30 08:43:38 INFO  time: compiled Scala_f4dd477a3a in 0.73s
+2024.07.30 08:43:38 INFO  compiling scala_f4dd477a3a (16 scala sources)
+2024.07.30 08:43:38 INFO  time: compiled Scala_f4dd477a3a in 0.56s
+2024.07.30 08:43:39 INFO  time: indexed workspace in 2.05s
+2024.07.30 08:43:39 WARN  no build target for: C:\Users\ashan\Downloads\q2.scala
+2024.07.30 08:43:45 INFO  no build target found for F:\Scala\labsheets\labsheet_6\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.30 08:43:45 INFO  no build target found for F:\Scala\labsheets\labsheet_6\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.30 08:43:45 WARN  Could not find semantic tokens for: file:///F:/Scala/labsheets/labsheet_6/Q2.scala
+2024.07.30 08:43:45 INFO  running doctor check
+2024.07.30 08:43:45 INFO  java targets: Scala_f4dd477a3a-test, Scala_f4dd477a3a
+2024.07.30 08:43:46 INFO  compiling scala_f4dd477a3a (17 scala sources)
+2024.07.30 08:43:46 INFO  time: compiled Scala_f4dd477a3a in 0.75s
+2024.07.30 08:43:47 INFO  compiling scala_f4dd477a3a (17 scala sources)
+2024.07.30 08:43:47 INFO  time: compiled Scala_f4dd477a3a in 0.56s
+2024.07.30 08:43:48 INFO  time: indexed workspace in 2.2s
+2024.07.30 08:43:48 WARN  no build target for: C:\Users\ashan\Downloads\q2.scala
+2024.07.30 08:43:53 WARN  Could not find semantic tokens for: file:///F:/Scala/labsheets/labsheet_6/Q2.scala
+2024.07.30 08:43:55 INFO  compiling scala_f4dd477a3a (17 scala sources)
+2024.07.30 08:43:55 INFO  time: compiled Scala_f4dd477a3a in 0.57s
+2024.07.30 08:45:09 INFO  compiling scala_f4dd477a3a (17 scala sources)
+2024.07.30 08:45:09 INFO  time: compiled Scala_f4dd477a3a in 0.49s
+2024.07.30 08:46:34 INFO  compiling scala_f4dd477a3a (17 scala sources)
+2024.07.30 08:46:34 INFO  time: compiled Scala_f4dd477a3a in 0.72s
+2024.07.30 08:46:36 INFO  compiling scala_f4dd477a3a (17 scala sources)
+2024.07.30 08:46:36 INFO  time: compiled Scala_f4dd477a3a in 0.5s
+2024.07.30 08:50:01 INFO  compiling scala_f4dd477a3a (17 scala sources)
+2024.07.30 08:50:01 INFO  time: compiled Scala_f4dd477a3a in 0.76s
+2024.07.30 08:50:05 INFO  compiling scala_f4dd477a3a (17 scala sources)
+2024.07.30 08:50:05 INFO  time: compiled Scala_f4dd477a3a in 0.46s
+2024.07.30 08:50:11 INFO  compiling scala_f4dd477a3a (17 scala sources)
+2024.07.30 08:50:11 INFO  time: compiled Scala_f4dd477a3a in 0.77s
+2024.07.30 08:50:19 INFO  compiling scala_f4dd477a3a (17 scala sources)
+2024.07.30 08:50:19 INFO  time: compiled Scala_f4dd477a3a in 0.52s
+2024.07.30 08:50:25 INFO  compiling scala_f4dd477a3a (17 scala sources)
+2024.07.30 08:50:25 INFO  time: compiled Scala_f4dd477a3a in 0.39s
+2024.07.30 08:50:32 INFO  compiling scala_f4dd477a3a (17 scala sources)
+2024.07.30 08:50:32 INFO  time: compiled Scala_f4dd477a3a in 0.44s
+2024.07.30 08:50:36 INFO  compiling scala_f4dd477a3a (17 scala sources)
+2024.07.30 08:50:36 INFO  time: compiled Scala_f4dd477a3a in 0.49s
+2024.07.30 08:50:44 INFO  compiling scala_f4dd477a3a (17 scala sources)
+2024.07.30 08:50:44 INFO  time: compiled Scala_f4dd477a3a in 0.81s
+2024.07.30 08:53:57 INFO  compiling scala_f4dd477a3a (17 scala sources)
+2024.07.30 08:53:57 INFO  time: compiled Scala_f4dd477a3a in 0.62s
+2024.07.30 08:53:59 INFO  compiling scala_f4dd477a3a (17 scala sources)
+2024.07.30 08:53:59 INFO  time: compiled Scala_f4dd477a3a in 0.73s
+2024.07.30 08:54:02 INFO  compiling scala_f4dd477a3a (17 scala sources)
+2024.07.30 08:54:02 INFO  time: compiled Scala_f4dd477a3a in 0.57s
+2024.07.30 08:54:04 INFO  compiling scala_f4dd477a3a (17 scala sources)
+2024.07.30 08:54:04 INFO  time: compiled Scala_f4dd477a3a in 0.64s
+Jul 30, 2024 8:54:06 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1517
+Jul 30, 2024 8:55:52 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1567
+Jul 30, 2024 9:00:23 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1599
+Jul 30, 2024 9:41:18 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1770
+Jul 30, 2024 9:41:44 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1790
+Jul 30, 2024 9:41:44 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1791
+2024.07.30 13:14:57 INFO  Shutting down server
+2024.07.30 13:14:57 INFO  shutting down Metals
+2024.07.30 13:14:57 INFO  Shut down connection with build server.
+2024.07.30 13:14:57 INFO  Exiting server
+2024.08.05 11:19:42 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at f:\Scala\labsheets\.metals\lsp.trace.json
+Exception in thread "main" java.lang.RuntimeException: Couldn't find pwsh.exe or powershell.exe on path or in default system locations
+	at dev.dirs.Util.windowsFallback(Util.java:284)
+	at dev.dirs.Util.getWinDirs(Util.java:166)
+	at dev.dirs.ProjectDirectories.fromPath(ProjectDirectories.java:255)
+	at scala.meta.internal.bsp.BspServers$.globalInstallDirectories(BspServers.scala:206)
+	at scala.meta.internal.metals.MetalsServerInputs$.productionConfiguration(MetalsServerInputs.scala:72)
+	at scala.meta.metals.MetalsLanguageServer$.$lessinit$greater$default$3(MetalsLanguageServer.scala:48)
+	at scala.meta.metals.Main$.main(Main.scala:45)
+	at scala.meta.metals.Main.main(Main.scala)
+Caused by: java.io.IOException: Cannot run program "C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe": CreateProcess error=225, Operation did not complete successfully because the file contains a virus or potentially unwanted software
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1143)
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1073)
+	at dev.dirs.Util.runCommands(Util.java:197)
+	at dev.dirs.Util.runWinCommands(Util.java:233)
+	at dev.dirs.Util.windowsFallback(Util.java:282)
+	... 7 more
+Caused by: java.io.IOException: CreateProcess error=225, Operation did not complete successfully because the file contains a virus or potentially unwanted software
+	at java.base/java.lang.ProcessImpl.create(Native Method)
+	at java.base/java.lang.ProcessImpl.<init>(ProcessImpl.java:494)
+	at java.base/java.lang.ProcessImpl.start(ProcessImpl.java:159)
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1110)
+	... 11 more
+2024.08.05 11:19:43 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at f:\Scala\labsheets\.metals\lsp.trace.json
+Exception in thread "main" java.lang.RuntimeException: Couldn't find pwsh.exe or powershell.exe on path or in default system locations
+	at dev.dirs.Util.windowsFallback(Util.java:284)
+	at dev.dirs.Util.getWinDirs(Util.java:166)
+	at dev.dirs.ProjectDirectories.fromPath(ProjectDirectories.java:255)
+	at scala.meta.internal.bsp.BspServers$.globalInstallDirectories(BspServers.scala:206)
+	at scala.meta.internal.metals.MetalsServerInputs$.productionConfiguration(MetalsServerInputs.scala:72)
+	at scala.meta.metals.MetalsLanguageServer$.$lessinit$greater$default$3(MetalsLanguageServer.scala:48)
+	at scala.meta.metals.Main$.main(Main.scala:45)
+	at scala.meta.metals.Main.main(Main.scala)
+Caused by: java.io.IOException: Cannot run program "C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe": CreateProcess error=225, Operation did not complete successfully because the file contains a virus or potentially unwanted software
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1143)
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1073)
+	at dev.dirs.Util.runCommands(Util.java:197)
+	at dev.dirs.Util.runWinCommands(Util.java:233)
+	at dev.dirs.Util.windowsFallback(Util.java:282)
+	... 7 more
+Caused by: java.io.IOException: CreateProcess error=225, Operation did not complete successfully because the file contains a virus or potentially unwanted software
+	at java.base/java.lang.ProcessImpl.create(Native Method)
+	at java.base/java.lang.ProcessImpl.<init>(ProcessImpl.java:494)
+	at java.base/java.lang.ProcessImpl.start(ProcessImpl.java:159)
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1110)
+	... 11 more
+2024.08.05 11:19:45 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at f:\Scala\labsheets\.metals\lsp.trace.json
+Exception in thread "main" java.lang.RuntimeException: Couldn't find pwsh.exe or powershell.exe on path or in default system locations
+	at dev.dirs.Util.windowsFallback(Util.java:284)
+	at dev.dirs.Util.getWinDirs(Util.java:166)
+	at dev.dirs.ProjectDirectories.fromPath(ProjectDirectories.java:255)
+	at scala.meta.internal.bsp.BspServers$.globalInstallDirectories(BspServers.scala:206)
+	at scala.meta.internal.metals.MetalsServerInputs$.productionConfiguration(MetalsServerInputs.scala:72)
+	at scala.meta.metals.MetalsLanguageServer$.$lessinit$greater$default$3(MetalsLanguageServer.scala:48)
+	at scala.meta.metals.Main$.main(Main.scala:45)
+	at scala.meta.metals.Main.main(Main.scala)
+Caused by: java.io.IOException: Cannot run program "C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe": CreateProcess error=225, Operation did not complete successfully because the file contains a virus or potentially unwanted software
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1143)
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1073)
+	at dev.dirs.Util.runCommands(Util.java:197)
+	at dev.dirs.Util.runWinCommands(Util.java:233)
+	at dev.dirs.Util.windowsFallback(Util.java:282)
+	... 7 more
+Caused by: java.io.IOException: CreateProcess error=225, Operation did not complete successfully because the file contains a virus or potentially unwanted software
+	at java.base/java.lang.ProcessImpl.create(Native Method)
+	at java.base/java.lang.ProcessImpl.<init>(ProcessImpl.java:494)
+	at java.base/java.lang.ProcessImpl.start(ProcessImpl.java:159)
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1110)
+	... 11 more
+2024.08.05 11:19:46 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at f:\Scala\labsheets\.metals\lsp.trace.json
+Exception in thread "main" java.lang.RuntimeException: Couldn't find pwsh.exe or powershell.exe on path or in default system locations
+	at dev.dirs.Util.windowsFallback(Util.java:284)
+	at dev.dirs.Util.getWinDirs(Util.java:166)
+	at dev.dirs.ProjectDirectories.fromPath(ProjectDirectories.java:255)
+	at scala.meta.internal.bsp.BspServers$.globalInstallDirectories(BspServers.scala:206)
+	at scala.meta.internal.metals.MetalsServerInputs$.productionConfiguration(MetalsServerInputs.scala:72)
+	at scala.meta.metals.MetalsLanguageServer$.$lessinit$greater$default$3(MetalsLanguageServer.scala:48)
+	at scala.meta.metals.Main$.main(Main.scala:45)
+	at scala.meta.metals.Main.main(Main.scala)
+Caused by: java.io.IOException: Cannot run program "C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe": CreateProcess error=225, Operation did not complete successfully because the file contains a virus or potentially unwanted software
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1143)
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1073)
+	at dev.dirs.Util.runCommands(Util.java:197)
+	at dev.dirs.Util.runWinCommands(Util.java:233)
+	at dev.dirs.Util.windowsFallback(Util.java:282)
+	... 7 more
+Caused by: java.io.IOException: CreateProcess error=225, Operation did not complete successfully because the file contains a virus or potentially unwanted software
+	at java.base/java.lang.ProcessImpl.create(Native Method)
+	at java.base/java.lang.ProcessImpl.<init>(ProcessImpl.java:494)
+	at java.base/java.lang.ProcessImpl.start(ProcessImpl.java:159)
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1110)
+	... 11 more
+2024.08.05 11:19:48 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at f:\Scala\labsheets\.metals\lsp.trace.json
+Exception in thread "main" java.lang.RuntimeException: Couldn't find pwsh.exe or powershell.exe on path or in default system locations
+	at dev.dirs.Util.windowsFallback(Util.java:284)
+	at dev.dirs.Util.getWinDirs(Util.java:166)
+	at dev.dirs.ProjectDirectories.fromPath(ProjectDirectories.java:255)
+	at scala.meta.internal.bsp.BspServers$.globalInstallDirectories(BspServers.scala:206)
+	at scala.meta.internal.metals.MetalsServerInputs$.productionConfiguration(MetalsServerInputs.scala:72)
+	at scala.meta.metals.MetalsLanguageServer$.$lessinit$greater$default$3(MetalsLanguageServer.scala:48)
+	at scala.meta.metals.Main$.main(Main.scala:45)
+	at scala.meta.metals.Main.main(Main.scala)
+Caused by: java.io.IOException: Cannot run program "C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe": CreateProcess error=225, Operation did not complete successfully because the file contains a virus or potentially unwanted software
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1143)
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1073)
+	at dev.dirs.Util.runCommands(Util.java:197)
+	at dev.dirs.Util.runWinCommands(Util.java:233)
+	at dev.dirs.Util.windowsFallback(Util.java:282)
+	... 7 more
+Caused by: java.io.IOException: CreateProcess error=225, Operation did not complete successfully because the file contains a virus or potentially unwanted software
+	at java.base/java.lang.ProcessImpl.create(Native Method)
+	at java.base/java.lang.ProcessImpl.<init>(ProcessImpl.java:494)
+	at java.base/java.lang.ProcessImpl.start(ProcessImpl.java:159)
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1110)
+	... 11 more

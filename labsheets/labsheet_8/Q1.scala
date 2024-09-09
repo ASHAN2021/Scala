@@ -24,7 +24,7 @@ object CaesarCipher {
 
   
   def main(args: Array[String]): Unit = {
-    val plaintext = "Good morning"
+    val plaintext = "Good morning12*"
     val shift = 3
 
     
